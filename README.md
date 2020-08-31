@@ -9,5 +9,5 @@
   
   
 <p align="center">
-  <img src="https://github.com/haaforever/R_Gen_BinCls_2Gauss/blob/master/Max_AUC.png">
+  <img src="https://github.com/haaforever/R_Gen_BinCls_2Gauss/blob/master/Max_Achv_AUC.png">
 </p>
